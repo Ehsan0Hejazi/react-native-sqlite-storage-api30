@@ -10,7 +10,7 @@
     "react-native": "^0.63.2",
     "react-native-windows": "^0.63.6"
   },
-  "homepage": "https://github.com/andpor/react-native-sqlite-storage-api30",
+  "homepage": "https://github.com/Ehsan0Hejazi/react-native-sqlite-storage-api30",
   "keywords": [
     "react-native-sqlite-storage-api30",
     "react-native-sqlite",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andpor/react-native-sqlite-storage-api30.git"
+    "url": "git+https://github.com/Ehsan0Hejazi/react-native-sqlite-storage-api30.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified yet\" && exit 1"

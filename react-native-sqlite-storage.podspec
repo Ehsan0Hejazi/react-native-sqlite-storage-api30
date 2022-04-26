@@ -6,10 +6,10 @@ Pod::Spec.new do |s|
   s.name     = "react-native-sqlite-storage-api30"
   s.version  = package['version']
   s.summary  = package['description']
-  s.homepage = "https://github.com/andpor/react-native-sqlite-storage-api30"
+  s.homepage = "https://github.com/Ehsan0Hejazi/react-native-sqlite-storage-api30"
   s.license  = package['license']
   s.author   = package['author']
-  s.source   = { :git => "https://github.com/andpor/react-native-sqlite-storage-api30.git", :tag => "#{s.version}" }
+  s.source   = { :git => "https://github.com/Ehsan0Hejazi/react-native-sqlite-storage-api30.git", :tag => "#{s.version}" }
 
   s.ios.deployment_target = '8.0'
   s.osx.deployment_target = '10.10'
