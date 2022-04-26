@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/db51f3ddc8cc7593762a49fc69c9cb50/transformed/core-1.0.1/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

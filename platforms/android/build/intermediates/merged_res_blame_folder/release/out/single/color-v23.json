@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/color-v23/abc_tint_edittext.xml"
+    }
+]

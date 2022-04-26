@@ -1,0 +1,16 @@
+org/pgsqlite/CallbackContext.java
+ org.pgsqlite.CallbackContext
+org/pgsqlite/SQLitePlugin.java
+ org.pgsqlite.SQLitePlugin
+ org.pgsqlite.SQLitePlugin$1
+ org.pgsqlite.SQLitePlugin$Action
+ org.pgsqlite.SQLitePlugin$DBQuery
+ org.pgsqlite.SQLitePlugin$DBRunner
+ org.pgsqlite.SQLitePlugin$QueryType
+org/pgsqlite/SQLitePluginPackage.java
+ org.pgsqlite.SQLitePluginPackage
+org/pgsqlite/BuildConfig.java
+ org.pgsqlite.BuildConfig
+org/pgsqlite/SQLitePluginConverter.java
+ org.pgsqlite.SQLitePluginConverter
+ org.pgsqlite.SQLitePluginConverter$1

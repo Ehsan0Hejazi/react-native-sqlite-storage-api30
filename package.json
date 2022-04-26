@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Ehsan Hejazi"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "SQLite3 bindings for React Native (Android & iOS)",
+  "devDependencies": {
+    "react": "16.13.1",
+    "react-native": "^0.63.2",
+    "react-native-windows": "^0.63.6"
+  },
+  "homepage": "https://github.com/andpor/react-native-sqlite-storage-api30",
+  "keywords": [
+    "react-native-sqlite-storage-api30",
+    "react-native-sqlite",
+    "react-component",
+    "reactnative",
+    "react-native",
+    "sqlite",
+    "sqlite3",
+    "ios",
+    "android",
+    "promise",
+    "cordova-sqlite-storage"
+  ],
+  "license": "MIT",
+  "main": "sqlite.js",
+  "name": "react-native-sqlite-storage-api30",
+  "peerDependencies": {
+    "react-native": ">=0.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andpor/react-native-sqlite-storage-api30.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified yet\" && exit 1"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/19cbafe3316839db512c5889227add53/transformed/jetified-react-native-0.65.1/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/19cbafe3316839db512c5889227add53/transformed/jetified-react-native-0.65.1/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/19cbafe3316839db512c5889227add53/transformed/jetified-react-native-0.65.1/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/19cbafe3316839db512c5889227add53/transformed/jetified-react-native-0.65.1/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/19cbafe3316839db512c5889227add53/transformed/jetified-react-native-0.65.1/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/19cbafe3316839db512c5889227add53/transformed/jetified-react-native-0.65.1/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/ehsan/Desktop/ARZ/app/arzdigital-app-v2/node_modules/react-native-sqlite-storage-api30/platforms/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/ehsan/.gradle/caches/transforms-3/f5ea126b9f9a9690b6380371301783b7/transformed/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    }
+]

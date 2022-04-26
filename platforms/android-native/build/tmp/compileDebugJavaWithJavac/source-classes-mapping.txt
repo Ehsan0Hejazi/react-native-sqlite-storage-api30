@@ -1,0 +1,19 @@
+io/liteglue/CallbackContext.java
+ io.liteglue.CallbackContext
+io/liteglue/SQLiteAndroidDatabase.java
+ io.liteglue.SQLiteAndroidDatabase
+ io.liteglue.SQLiteAndroidDatabase$QueryType
+io/liteglue/SQLitePluginPackage.java
+ io.liteglue.SQLitePluginPackage
+io/liteglue/SQLitePluginConverter.java
+ io.liteglue.SQLitePluginConverter
+ io.liteglue.SQLitePluginConverter$1
+io/liteglue/SQLitePlugin.java
+ io.liteglue.SQLitePlugin
+ io.liteglue.SQLitePlugin$1
+ io.liteglue.SQLitePlugin$Action
+ io.liteglue.SQLitePlugin$DBQuery
+ io.liteglue.SQLitePlugin$DBRunner
+ io.liteglue.SQLitePlugin$SQLiteDatabaseNDK
+io/liteglue/BuildConfig.java
+ io.liteglue.BuildConfig
